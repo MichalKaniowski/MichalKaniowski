@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Michal!
-👨‍💻 **Fullstack Developer** working with React, TypeScript & Node.js
-🚀 **Just shipped** a commercial service marketplace for a client
-🌱 **Currently exploring** advanced Node.js patterns and backend architecture
-💡 **Always trying to** write cleaner code and simplify complex logic
+👨‍💻 **Fullstack Developer** working with React, TypeScript & Node.js <br />
+🚀 **Just shipped** a commercial service marketplace for a client <br />
+🌱 **Currently exploring** advanced Node.js patterns and backend architecture <br />
+💡 **Always trying to** write cleaner code and simplify complex logic <br />
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
