@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Michal!
 👨‍💻 **Fullstack Developer** working with React, TypeScript & Node.js <br />
-🏢 Working at Tonik building web products <br />
+🏢 **Working @[Tonik](https://github.com/tonik)** building web products <br />
 🌱 **Currently exploring** supabase <br />
 
 # 💻 Tech Stack
